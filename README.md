@@ -1,7 +1,6 @@
 
 - 👋 Hi, I’m @Airbullkita
 - 👀 I’m interested in html, css, php and javascript
-- 🌱 I’m currently learning 
 - 📫 How to reach me: alguegalle@gmail.com
 - ⚡ Fun fact:   hello, world!
 
